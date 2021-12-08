@@ -12,7 +12,7 @@ Some of these repositories are tagged with the following codes,
     - to indicate that the repository works as a empty template
     
   - **example--**
-    - to indicate that the repository is a POC
+    - to indicate that the repository is either an example or a POC
 
     
 ### Enjoy the rest of the day!
