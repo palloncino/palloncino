@@ -1,10 +1,10 @@
 ## Hi, good to see you! 🙋🏻‍♂️
 
-### Short intro
+### **ℹ️ Short intro**
 
 I grow up in Italy and I currently live here, you can get in touch by sending an email to antonio.guiotto.dev@gmail.com
 
-### About
+### **ℹ️ About**
 
 Some of these repositories are tagged with the following codes,
 
