@@ -1,4 +1,4 @@
-## Hi, good to see you here! 🙋🏻‍♂️
+## Hi, good to see you! 🙋🏻‍♂️
 
 ### Short intro
 
