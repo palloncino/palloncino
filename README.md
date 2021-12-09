@@ -15,4 +15,4 @@ Some of these repositories are tagged with the following codes,
     - to indicate that the repository is either an example or a POC
 
     
-### Enjoy the rest of the day!
+### **☀️ Let's go**
