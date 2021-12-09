@@ -1,6 +1,6 @@
 ## Hi, good to see you! 🙋🏻‍♂️
 
-### **ℹ️ Short intro**
+### **🤷🏻‍♂️ Short intro**
 
 I grow up in Italy and I currently live here, you can get in touch by sending an email to antonio.guiotto.dev@gmail.com
 
