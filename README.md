@@ -2,7 +2,7 @@
 
 ### **🤷🏻‍♂️ Short intro**
 
-I grow up in Italy and I currently live here, you can get in touch by sending an email to antonio.guiotto.dev@gmail.com
+I grew up in Italy and I currently live here, you can get in touch by sending an email to antonio.guiotto.dev@gmail.com
 
 ### **ℹ️ About**
 
