@@ -2,7 +2,7 @@ My Stats
 
 [![Palloncinos's GitHub stats](https://github-readme-stats.vercel.app/api?username=palloncino&theme=dark&show_icons=true)](https://github.com/palloncino/github-readme-stats)
 
-<br /><br />
+<br />
 
 Repository's name legend
 
