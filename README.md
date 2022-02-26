@@ -8,7 +8,6 @@ Repository's name legend
 
 ```javascript
 switch (repository_name) {
-
   case repository_name.includes('template--'):
     return 'works as a empty template';
   
