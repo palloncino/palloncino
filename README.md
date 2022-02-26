@@ -1,21 +1,25 @@
-## Hi, good to see you! 🙋🏻‍♂️
+My Stats
 
-### **🤷🏻‍♂️ Short intro**
+[![Palloncinos's GitHub stats](https://github-readme-stats.vercel.app/api?username=palloncino)](https://github.com/palloncino/github-readme-stats)
 
-I grew up in Italy and I currently live here, you can get in touch by sending an email to antonio.guiotto.dev@gmail.com
+<br /><br />
 
-### **ℹ️ About**
+Repository's name legend
 
-Some of these repositories are tagged with the following codes,
+```javascript
+switch (repository_name) {
 
-  - **template--**
-    - works as a empty template
-    
-  - **example--**
-    - either an example or a POC
+  case repository_name.includes('template--'):
+    return 'works as a empty template';
+  
+  case repository_name.includes('example--'):
+      return 'it\'s a POC';
 
-  - **info--**
-    - a storage of information
+  case repository_name.includes('info--'):
+    return 'a storage of useful information';
 
-    
-### **☀️ Let's go**
+  default:
+    return 'a normal project';
+
+}
+```
