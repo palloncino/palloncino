@@ -20,6 +20,5 @@ switch (repository_name) {
 
   default:
     return 'a normal project';
-
 }
 ```
