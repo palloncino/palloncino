@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hey there, I'm Palloncino (Antonio Guiotto)! 👋
 
