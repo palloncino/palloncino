@@ -2,7 +2,7 @@
 
 # Hey there, I'm Palloncino (Antonio Guiotto)! 👋
 
-I'm a passionate web and mobile app developer focused on creating engaging user experiences. 
+Web Developer focused on web apps, UX/UI, Graphics, 2D 3D Animations
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
