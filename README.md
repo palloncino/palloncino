@@ -44,7 +44,6 @@ I am open to collaborations.
 <br />
 
 # Connect 🫱🏻‍🫲🏼 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F27E3F)](https://antonioguiotto.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/)
 
 </div>
