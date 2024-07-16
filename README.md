@@ -2,7 +2,11 @@
 
 # Hey there, I'm Palloncino (Antonio Guiotto)! 👋
 
-Web Developer focused on web apps, UX/UI, Graphics, 2D 3D Animations
+Web Development, generally I work on e-commerces or custom management apps.
+
+These are some of the main technologies but nowadays I can cover most technologies thanks to AI.
+
+I am open to collaborations.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -21,6 +25,8 @@ Web Developer focused on web apps, UX/UI, Graphics, 2D 3D Animations
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Adobe Suite](https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Laravel](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![ASP](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 <br />
 
