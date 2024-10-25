@@ -4,6 +4,8 @@
 
 Web Development, generally I work on e-commerces or custom management apps.
 
+My online CV: https://palloncino.github.io/cv/
+
 These are some of the main technologies but nowadays I can cover most technologies thanks to AI.
 
 I am open to collaborations.
