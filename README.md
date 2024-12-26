@@ -6,7 +6,7 @@ Web Development, generally I work on e-commerces or custom management apps.
 
 My online CV: https://palloncino.github.io/cv
 
-These are some of the main technologies but nowadays I can cover most technologies thanks to AI.
+Although I can work with anything, these are some of the preferred tech stack.
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
