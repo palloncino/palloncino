@@ -8,7 +8,6 @@ My online CV: https://palloncino.github.io/cv
 
 These are some of the main technologies but nowadays I can cover most technologies thanks to AI.
 
-I am open to collaborations.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -36,8 +35,10 @@ I am open to collaborations.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
+I am open to collaborations.
 
-# Connect 🫱🏻‍🫲🏼 
+
+### Connect 🫱🏻‍🫲🏼 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/)
 
 </div>
