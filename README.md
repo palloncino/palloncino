@@ -1,10 +1,10 @@
 <div>
 
-# Hey there, I'm Palloncino (Antonio Guiotto)! 👋
+# Antonio Guiotto
 
 Web Development, generally I work on e-commerces or custom management apps.
 
-My online CV: https://palloncino.github.io/cv/
+My online CV: https://palloncino.github.io/cv
 
 These are some of the main technologies but nowadays I can cover most technologies thanks to AI.
 
@@ -36,14 +36,6 @@ I am open to collaborations.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-
-<br />
-
-# My Github Stats 
-![Palloncino's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palloncino&theme=onedark&show_icons=true&hide_border=true&layout=compact)
-[![Palloncinos's GitHub stats](https://github-readme-stats.vercel.app/api?username=palloncino&theme=onedark&show_icons=true&hide_border=true)](https://github.com/palloncino/github-readme-stats)
-
-<br />
 
 # Connect 🫱🏻‍🫲🏼 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/)
